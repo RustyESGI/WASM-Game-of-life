@@ -8,3 +8,9 @@ Cela va :
 - Compiler le code Rust présent dans src/
 - Générer les bindings WASM
 - Créer un dossier pkg avec le WASM compilé
+
+
+# Lancer le programme
+``` cd www ```
+``` npm install ```
+``` npm run start ```
